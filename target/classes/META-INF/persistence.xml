@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="h2ExpPU" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>utn.frc.backend.parcial.expenses.domain.entities.Department</class>
+        <class>utn.frc.backend.parcial.expenses.domain.entities.Employee</class>
+        <class>utn.frc.backend.parcial.expenses.domain.entities.Expense</class>
+        <class>utn.frc.backend.parcial.expenses.domain.entities.ExpenseSub</class>
+        <class>utn.frc.backend.parcial.expenses.domain.entities.ExpenseSubDetail</class>
+        <properties>
+            <property name="eclipselink.canonicalmodel.subpackage" value="h2"/>
+            <property name="jakarta.persistence.jdbc.driver" value="org.h2.Driver"/>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:h2:/path/to/expensesdb"/>
+            <property name="jakarta.persistence.jdbc.user" value=""/>
+            <property name="jakarta.persistence.jdbc.password" value=""/>
+        </properties>
+    </persistence-unit>
+</persistence>
