@@ -1,0 +1,501 @@
+EMP_ID,EMP_NAME,DPT_ID,DPT_NAME,EXP_SUB_ID,EXP_SUB_DATE,DET_ID,EXP_ID,EXP_NAME,DET_AMOUNT
+13,Sarah Renner Jr.,13,Board of Directors,17,2023-02-21,97,18,Transportation,167.92
+60,Ross Abernathy,3,Creative Services,42,2023-05-16,213,1,Accomodations,305.92
+68,Ruben Mertz,16,Finance,88,2023-10-21,438,7,Mileage,212.08
+11,Ms. Pam Fay,19,Investor Relations,37,2023-04-29,191,14,Food,87.63
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,461,2,Business meals,47.55
+17,Mr. Elijah Pollich,4,Engineering,96,2023-11-20,476,7,Mileage,263.34
+10,Martha Legros,12,Strategic Initiatives & Programs,71,2023-08-18,350,11,Other accomodation expenses,214.18
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,228,2,Business meals,71.80
+81,Angelica Torphy,15,Customer Service,20,2023-03-02,107,8,Cleaning and laundry,76.45
+17,Mr. Elijah Pollich,4,Engineering,66,2023-08-01,323,11,Other accomodation expenses,205.38
+46,Dr. Willie Koss I,24,Sales,52,2023-06-07,255,23,Meals during travel,157.42
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,411,18,Transportation,167.60
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,454,1,Accomodations,369.81
+37,Laurie Bode,16,Finance,63,2023-07-24,308,25,Other travel expenses,169.87
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,463,9,Expenses,199.03
+68,Ruben Mertz,16,Finance,15,2023-02-13,80,5,Transport costs,74.30
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,376,9,Expenses,103.02
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,281,11,Other accomodation expenses,136.50
+91,Gayle Hammes,9,Production,53,2023-06-12,259,12,Meals,188.92
+43,Cynthia Runolfsson PhD,22,Project Management Office,6,2023-01-20,28,4,Baggage fees,41.46
+95,Marcus Will-Powlowski Jr.,8,Operations,61,2023-07-15,293,7,Mileage,210.99
+51,Derrick Schroeder,16,Finance,91,2023-11-01,449,8,Cleaning and laundry,45.44
+10,Martha Legros,12,Strategic Initiatives & Programs,41,2023-05-15,208,3,Airfare,294.67
+15,Conrad Treutel,6,Information Technology,72,2023-08-22,356,25,Other travel expenses,155.44
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,233,18,Transportation,63.26
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,168,10,Lodging,348.45
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,92,15,Tips paid for services,85.35
+30,Megan Quitzon,16,Finance,69,2023-08-11,337,5,Transport costs,78.28
+57,Clyde Hayes,9,Production,62,2023-07-21,298,13,Travel,120.61
+5,Marion Grant III,14,Corporate Communications,67,2023-08-03,329,25,Other travel expenses,48.03
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,72,1,Accomodations,276.20
+86,Ida Herzog,9,Production,33,2023-04-13,175,4,Baggage fees,85.39
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,460,25,Other travel expenses,156.59
+86,Ida Herzog,9,Production,39,2023-05-06,201,20,Auto rentals,70.22
+36,Joann Dach,21,Product Management,75,2023-09-04,367,4,Baggage fees,39.72
+84,Mrs. Joann Satterfield,4,Engineering,90,2023-10-29,447,22,Air- rail and bus fares,403.47
+22,Willard Walter,24,Sales,51,2023-06-02,248,4,Baggage fees,43.56
+92,Kerry Mohr,21,Product Management,23,2023-03-08,129,20,Auto rentals,123.25
+77,Ronnie Boehm-Langworth,23,Quality Assurance,19,2023-03-01,105,22,Air- rail and bus fares,297.14
+68,Ruben Mertz,16,Finance,88,2023-10-21,441,21,Tolls,92.76
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,88,3,Airfare,490.63
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,464,9,Expenses,196.90
+91,Gayle Hammes,9,Production,56,2023-06-20,273,22,Air- rail and bus fares,343.40
+68,Ruben Mertz,16,Finance,21,2023-03-02,112,22,Air- rail and bus fares,309.01
+8,Katie Olson,23,Quality Assurance,40,2023-05-10,205,18,Transportation,62.96
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,420,15,Tips paid for services,56.43
+36,Joann Dach,21,Product Management,75,2023-09-04,368,7,Mileage,252.17
+64,Lucia Schamberger-Lueilwitz I,7,Legal,45,2023-05-21,227,5,Transport costs,67.48
+42,Dr. Carolyn Bartell MD,21,Product Management,81,2023-09-19,399,6,Business calls,36.09
+6,Dr. Warren Murphy,1,Asset Management,34,2023-04-19,180,9,Expenses,89.08
+19,Joseph Douglas,12,Strategic Initiatives & Programs,31,2023-04-05,166,25,Other travel expenses,130.32
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,89,4,Baggage fees,42.77
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,314,23,Meals during travel,134.53
+81,Angelica Torphy,15,Customer Service,29,2023-03-25,158,18,Transportation,131.71
+21,Cameron Ritchie,8,Operations,70,2023-08-13,344,11,Other accomodation expenses,193.87
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,52,14,Food,30.46
+37,Laurie Bode,16,Finance,63,2023-07-24,300,1,Accomodations,151.23
+68,Ruben Mertz,16,Finance,15,2023-02-13,81,8,Cleaning and laundry,70.22
+91,Gayle Hammes,9,Production,56,2023-06-20,269,5,Transport costs,84.89
+86,Ida Herzog,9,Production,39,2023-05-06,203,22,Air- rail and bus fares,186.74
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,68,24,Personal car,129.47
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,90,6,Business calls,76.84
+8,Katie Olson,23,Quality Assurance,40,2023-05-10,207,20,Auto rentals,80.75
+74,Amelia Wilderman,15,Customer Service,82,2023-09-21,404,12,Meals,116.62
+45,Mitchell Friesen,15,Customer Service,4,2023-01-13,21,22,Air- rail and bus fares,203.68
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,419,7,Mileage,155.66
+91,Gayle Hammes,9,Production,26,2023-03-23,145,16,Parking Fees,50.44
+6,Dr. Warren Murphy,1,Asset Management,34,2023-04-19,182,19,Other transportation expenses,63.79
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,495,11,Other accomodation expenses,125.79
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,7,7,Mileage,277.36
+95,Marcus Will-Powlowski Jr.,8,Operations,61,2023-07-15,295,20,Auto rentals,163.22
+51,Derrick Schroeder,16,Finance,91,2023-11-01,451,15,Tips paid for services,46.46
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,318,4,Baggage fees,97.79
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,466,19,Other transportation expenses,34.99
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,455,1,Accomodations,344.70
+91,Gayle Hammes,9,Production,53,2023-06-12,256,1,Accomodations,268.87
+55,Ernest Senger III,12,Strategic Initiatives & Programs,7,2023-01-24,33,9,Expenses,172.19
+5,Marion Grant III,14,Corporate Communications,67,2023-08-03,325,6,Business calls,44.95
+91,Gayle Hammes,9,Production,55,2023-06-20,265,1,Accomodations,341.60
+33,Julio Sanford,12,Strategic Initiatives & Programs,80,2023-09-17,395,17,Laundry,86.35
+80,Ms. Fannie McGlynn,23,Quality Assurance,99,2023-11-27,488,4,Baggage fees,94.89
+11,Ms. Pam Fay,19,Investor Relations,37,2023-04-29,190,9,Expenses,132.73
+73,Tina Hirthe,15,Customer Service,18,2023-02-23,99,13,Travel,133.83
+17,Mr. Elijah Pollich,4,Engineering,89,2023-10-25,445,25,Other travel expenses,21.50
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,25,15,Tips paid for services,57.38
+51,Derrick Schroeder,16,Finance,84,2023-10-03,417,11,Other accomodation expenses,166.95
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,426,9,Expenses,146.03
+73,Tina Hirthe,15,Customer Service,18,2023-02-23,101,17,Laundry,86.21
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,479,2,Business meals,55.74
+80,Ms. Fannie McGlynn,23,Quality Assurance,38,2023-05-01,196,25,Other travel expenses,69.92
+72,Glenda Goodwin,12,Strategic Initiatives & Programs,95,2023-11-16,473,17,Laundry,97.93
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,6,2,Business meals,54.00
+86,Ida Herzog,9,Production,33,2023-04-13,178,15,Tips paid for services,21.26
+86,Ida Herzog,9,Production,33,2023-04-13,179,23,Meals during travel,176.97
+57,Clyde Hayes,9,Production,62,2023-07-21,299,13,Travel,197.60
+72,Glenda Goodwin,12,Strategic Initiatives & Programs,95,2023-11-16,471,2,Business meals,54.75
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,379,15,Tips paid for services,42.24
+92,Kerry Mohr,21,Product Management,9,2023-01-25,43,11,Other accomodation expenses,108.87
+81,Angelica Torphy,15,Customer Service,20,2023-03-02,108,15,Tips paid for services,43.82
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,27,22,Air- rail and bus fares,281.96
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,87,2,Business meals,21.31
+11,Ms. Pam Fay,19,Investor Relations,37,2023-04-29,192,24,Personal car,136.94
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,428,16,Parking Fees,23.38
+80,Ms. Fannie McGlynn,23,Quality Assurance,38,2023-05-01,195,17,Laundry,95.24
+51,Derrick Schroeder,16,Finance,91,2023-11-01,453,25,Other travel expenses,70.47
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,229,3,Airfare,389.39
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,53,15,Tips paid for services,41.46
+25,Rosemarie Schamberger,14,Corporate Communications,49,2023-05-28,240,19,Other transportation expenses,60.30
+92,Kerry Mohr,21,Product Management,25,2023-03-19,137,16,Parking Fees,20.87
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,320,15,Tips paid for services,43.27
+81,Angelica Torphy,15,Customer Service,29,2023-03-25,159,21,Tolls,24.59
+22,Willard Walter,24,Sales,51,2023-06-02,251,13,Travel,209.28
+89,Sarah Reichel,19,Investor Relations,36,2023-04-24,186,5,Transport costs,60.38
+76,Mr. Jody Rolfson,2,Business Development,74,2023-08-30,364,21,Tolls,81.46
+92,Kerry Mohr,21,Product Management,25,2023-03-19,136,9,Expenses,130.67
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,43,2023-05-16,218,11,Other accomodation expenses,167.36
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,123,18,Transportation,85.44
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,167,3,Airfare,741.97
+80,Ms. Fannie McGlynn,23,Quality Assurance,99,2023-11-27,491,25,Other travel expenses,128.39
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,280,1,Accomodations,202.23
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,116,4,Baggage fees,65.66
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,17,20,Auto rentals,84.35
+80,Ms. Fannie McGlynn,23,Quality Assurance,99,2023-11-27,490,18,Transportation,138.54
+42,Dr. Carolyn Bartell MD,21,Product Management,81,2023-09-19,400,16,Parking Fees,68.31
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,230,11,Other accomodation expenses,81.41
+12,Roberta Hermiston,6,Information Technology,94,2023-11-13,470,11,Other accomodation expenses,111.75
+60,Ross Abernathy,3,Creative Services,42,2023-05-16,214,7,Mileage,194.64
+92,Kerry Mohr,21,Product Management,9,2023-01-25,46,21,Tolls,59.47
+100,Leland Wisoky,19,Investor Relations,60,2023-07-09,289,14,Food,66.99
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,497,15,Tips paid for services,30.27
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,63,14,Food,98.13
+12,Roberta Hermiston,6,Information Technology,68,2023-08-07,330,1,Accomodations,158.58
+68,Ruben Mertz,16,Finance,21,2023-03-02,113,24,Personal car,223.42
+68,Ruben Mertz,16,Finance,15,2023-02-13,86,25,Other travel expenses,94.81
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,10,20,Auto rentals,111.05
+63,Gilbert Lang,10,Purchasing / Sourcing,79,2023-09-17,390,19,Other transportation expenses,48.69
+36,Joann Dach,21,Product Management,8,2023-01-24,35,3,Airfare,400.39
+21,Cameron Ritchie,8,Operations,70,2023-08-13,345,16,Parking Fees,84.14
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,276,12,Meals,48.97
+37,Laurie Bode,16,Finance,63,2023-07-24,305,17,Laundry,51.02
+52,Hattie Kassulke,24,Sales,1,2023-01-06,4,17,Laundry,79.35
+57,Clyde Hayes,9,Production,50,2023-06-02,247,22,Air- rail and bus fares,200.75
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,55,22,Air- rail and bus fares,261.00
+36,Joann Dach,21,Product Management,75,2023-09-04,373,25,Other travel expenses,163.83
+13,Sarah Renner Jr.,13,Board of Directors,17,2023-02-21,95,9,Expenses,164.78
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,493,6,Business calls,34.55
+32,Willard Cremin-Kunde,7,Legal,73,2023-08-28,359,22,Air- rail and bus fares,246.95
+68,Ruben Mertz,16,Finance,88,2023-10-21,439,15,Tips paid for services,85.30
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,465,15,Tips paid for services,66.13
+24,Trevor Nicolas,9,Production,87,2023-10-16,434,11,Other accomodation expenses,170.80
+72,Glenda Goodwin,12,Strategic Initiatives & Programs,95,2023-11-16,474,18,Transportation,60.35
+36,Joann Dach,21,Product Management,8,2023-01-24,36,3,Airfare,682.96
+86,Ida Herzog,9,Production,39,2023-05-06,204,24,Personal car,191.23
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,77,13,Travel,138.86
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,316,2,Business meals,64.81
+30,Megan Quitzon,16,Finance,69,2023-08-11,342,17,Laundry,79.97
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,487,24,Personal car,148.37
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,122,12,Meals,73.75
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,170,19,Other transportation expenses,86.43
+26,Lillian Ullrich,5,General Management,24,2023-03-14,133,11,Other accomodation expenses,168.23
+40,Kelley Predovic IV,15,Customer Service,35,2023-04-19,183,7,Mileage,146.87
+86,Ida Herzog,9,Production,39,2023-05-06,200,17,Laundry,80.52
+68,Ruben Mertz,16,Finance,15,2023-02-13,84,15,Tips paid for services,34.73
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,11,23,Meals during travel,182.25
+32,Willard Cremin-Kunde,7,Legal,73,2023-08-28,358,11,Other accomodation expenses,172.10
+12,Roberta Hermiston,6,Information Technology,68,2023-08-07,332,9,Expenses,170.15
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,309,9,Expenses,103.44
+51,Derrick Schroeder,16,Finance,91,2023-11-01,448,6,Business calls,36.34
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,69,25,Other travel expenses,26.70
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,12,7,Mileage,244.27
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,274,5,Transport costs,25.77
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,319,14,Food,47.22
+92,Kerry Mohr,21,Product Management,23,2023-03-08,130,23,Meals during travel,92.32
+91,Gayle Hammes,9,Production,26,2023-03-23,147,23,Meals during travel,128.34
+36,Joann Dach,21,Product Management,75,2023-09-04,369,10,Lodging,316.26
+30,Megan Quitzon,16,Finance,69,2023-08-11,341,15,Tips paid for services,64.91
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,486,19,Other transportation expenses,31.65
+100,Leland Wisoky,19,Investor Relations,60,2023-07-09,291,22,Air- rail and bus fares,470.30
+17,Mr. Elijah Pollich,4,Engineering,89,2023-10-25,444,19,Other transportation expenses,66.18
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,118,5,Transport costs,54.62
+86,Ida Herzog,9,Production,39,2023-05-06,199,15,Tips paid for services,76.94
+10,Martha Legros,12,Strategic Initiatives & Programs,71,2023-08-18,349,2,Business meals,32.43
+24,Trevor Nicolas,9,Production,87,2023-10-16,432,2,Business meals,56.06
+89,Sarah Reichel,19,Investor Relations,36,2023-04-24,188,18,Transportation,139.11
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,485,18,Transportation,125.15
+5,Marion Grant III,14,Corporate Communications,67,2023-08-03,326,14,Food,79.56
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,115,1,Accomodations,157.66
+63,Gilbert Lang,10,Purchasing / Sourcing,79,2023-09-17,392,25,Other travel expenses,199.48
+21,Cameron Ritchie,8,Operations,70,2023-08-13,348,24,Personal car,171.79
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,61,10,Lodging,358.17
+81,Angelica Torphy,15,Customer Service,20,2023-03-02,110,25,Other travel expenses,145.35
+89,Sarah Reichel,19,Investor Relations,36,2023-04-24,187,12,Meals,138.64
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,59,6,Business calls,77.14
+91,Gayle Hammes,9,Production,53,2023-06-12,261,22,Air- rail and bus fares,299.82
+17,Mr. Elijah Pollich,4,Engineering,96,2023-11-20,478,25,Other travel expenses,51.45
+45,Mitchell Friesen,15,Customer Service,4,2023-01-13,18,10,Lodging,227.78
+17,Mr. Elijah Pollich,4,Engineering,89,2023-10-25,443,11,Other accomodation expenses,134.58
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,278,20,Auto rentals,83.57
+22,Willard Walter,24,Sales,30,2023-03-31,160,3,Airfare,396.24
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,286,20,Auto rentals,140.63
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,48,2,Business meals,64.39
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,67,23,Meals during travel,117.14
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,124,18,Transportation,74.84
+36,Joann Dach,21,Product Management,8,2023-01-24,37,16,Parking Fees,45.05
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,377,9,Expenses,99.16
+21,Cameron Ritchie,8,Operations,70,2023-08-13,346,18,Transportation,103.42
+73,Tina Hirthe,15,Customer Service,18,2023-02-23,100,15,Tips paid for services,31.12
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,468,23,Meals during travel,46.28
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,412,19,Other transportation expenses,67.59
+91,Gayle Hammes,9,Production,55,2023-06-20,267,11,Other accomodation expenses,227.79
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,94,19,Other transportation expenses,62.43
+57,Clyde Hayes,9,Production,50,2023-06-02,246,18,Transportation,97.63
+46,Dr. Willie Koss I,24,Sales,52,2023-06-07,254,8,Cleaning and laundry,82.27
+92,Kerry Mohr,21,Product Management,9,2023-01-25,47,23,Meals during travel,124.61
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,382,23,Meals during travel,126.94
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,494,9,Expenses,130.39
+77,Ronnie Boehm-Langworth,23,Quality Assurance,19,2023-03-01,103,5,Transport costs,36.81
+68,Ruben Mertz,16,Finance,88,2023-10-21,437,6,Business calls,85.62
+75,Charlie Nader,23,Quality Assurance,47,2023-05-22,236,1,Accomodations,219.14
+92,Kerry Mohr,21,Product Management,23,2023-03-08,128,6,Business calls,28.04
+68,Ruben Mertz,16,Finance,15,2023-02-13,85,23,Meals during travel,63.08
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,430,23,Meals during travel,79.49
+43,Cynthia Runolfsson PhD,22,Project Management Office,6,2023-01-20,29,15,Tips paid for services,70.77
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,422,18,Transportation,131.24
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,378,10,Lodging,447.30
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,459,19,Other transportation expenses,76.01
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,54,18,Transportation,100.25
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,125,24,Personal car,160.44
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,381,19,Other transportation expenses,65.03
+78,Randal Kessler,3,Creative Services,77,2023-09-12,384,24,Personal car,198.43
+60,Ross Abernathy,3,Creative Services,42,2023-05-16,216,20,Auto rentals,105.05
+68,Ruben Mertz,16,Finance,88,2023-10-21,436,3,Airfare,405.52
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,54,2023-06-17,262,4,Baggage fees,75.85
+89,Sarah Reichel,19,Investor Relations,36,2023-04-24,184,1,Accomodations,153.94
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,413,21,Tolls,70.10
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,50,6,Business calls,71.83
+72,Glenda Goodwin,12,Strategic Initiatives & Programs,95,2023-11-16,475,21,Tolls,64.14
+51,Derrick Schroeder,16,Finance,91,2023-11-01,450,8,Cleaning and laundry,62.57
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,43,2023-05-16,219,22,Air- rail and bus fares,470.16
+68,Ruben Mertz,16,Finance,15,2023-02-13,79,1,Accomodations,264.78
+33,Julio Sanford,12,Strategic Initiatives & Programs,80,2023-09-17,394,4,Baggage fees,45.21
+86,Ida Herzog,9,Production,39,2023-05-06,197,8,Cleaning and laundry,77.28
+91,Gayle Hammes,9,Production,55,2023-06-20,266,5,Transport costs,54.82
+91,Gayle Hammes,9,Production,26,2023-03-23,142,6,Business calls,91.37
+22,Willard Walter,24,Sales,51,2023-06-02,252,22,Air- rail and bus fares,320.82
+57,Clyde Hayes,9,Production,50,2023-06-02,241,3,Airfare,716.16
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,224,18,Transportation,104.55
+37,Laurie Bode,16,Finance,63,2023-07-24,301,6,Business calls,84.82
+91,Gayle Hammes,9,Production,56,2023-06-20,270,8,Cleaning and laundry,104.49
+12,Roberta Hermiston,6,Information Technology,68,2023-08-07,333,13,Travel,108.86
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,91,9,Expenses,102.56
+43,Cynthia Runolfsson PhD,22,Project Management Office,6,2023-01-20,30,16,Parking Fees,83.94
+13,Sarah Renner Jr.,13,Board of Directors,17,2023-02-21,96,11,Other accomodation expenses,124.47
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,315,24,Personal car,275.62
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,492,5,Transport costs,78.90
+11,Ms. Pam Fay,19,Investor Relations,37,2023-04-29,189,8,Cleaning and laundry,116.66
+22,Willard Walter,24,Sales,51,2023-06-02,250,12,Meals,135.54
+80,Ms. Fannie McGlynn,23,Quality Assurance,38,2023-05-01,194,10,Lodging,393.29
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,232,15,Tips paid for services,70.43
+92,Kerry Mohr,21,Product Management,9,2023-01-25,44,12,Meals,64.60
+92,Kerry Mohr,21,Product Management,9,2023-01-25,45,17,Laundry,52.04
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,462,2,Business meals,28.64
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,169,11,Other accomodation expenses,103.10
+10,Martha Legros,12,Strategic Initiatives & Programs,41,2023-05-15,209,19,Other transportation expenses,82.01
+73,Tina Hirthe,15,Customer Service,18,2023-02-23,102,23,Meals during travel,118.30
+86,Ida Herzog,9,Production,39,2023-05-06,198,9,Expenses,63.92
+22,Willard Walter,24,Sales,51,2023-06-02,249,11,Other accomodation expenses,153.87
+15,Conrad Treutel,6,Information Technology,72,2023-08-22,352,6,Business calls,47.07
+6,Dr. Warren Murphy,1,Asset Management,34,2023-04-19,181,18,Transportation,164.00
+26,Lillian Ullrich,5,General Management,24,2023-03-14,135,23,Meals during travel,51.19
+15,Conrad Treutel,6,Information Technology,72,2023-08-22,353,10,Lodging,238.08
+80,Ms. Fannie McGlynn,23,Quality Assurance,99,2023-11-27,489,7,Mileage,256.64
+32,Willard Cremin-Kunde,7,Legal,73,2023-08-28,357,5,Transport costs,25.54
+38,Eric Johns,24,Sales,28,2023-03-23,153,21,Tolls,82.62
+22,Willard Walter,24,Sales,30,2023-03-31,162,6,Business calls,99.49
+92,Kerry Mohr,21,Product Management,25,2023-03-19,140,25,Other travel expenses,135.30
+100,Leland Wisoky,19,Investor Relations,60,2023-07-09,290,21,Tolls,59.21
+14,Marianne Gibson,13,Board of Directors,14,2023-02-09,78,25,Other travel expenses,54.72
+63,Gilbert Lang,10,Purchasing / Sourcing,79,2023-09-17,393,25,Other travel expenses,100.86
+47,Laurence Armstrong,3,Creative Services,48,2023-05-24,239,12,Meals,78.59
+36,Joann Dach,21,Product Management,75,2023-09-04,371,21,Tolls,73.41
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,43,2023-05-16,220,23,Meals during travel,61.23
+10,Martha Legros,12,Strategic Initiatives & Programs,71,2023-08-18,351,12,Meals,136.63
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,287,24,Personal car,148.60
+76,Mr. Jody Rolfson,2,Business Development,74,2023-08-30,362,2,Business meals,97.09
+76,Mr. Jody Rolfson,2,Business Development,74,2023-08-30,365,22,Air- rail and bus fares,236.16
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,235,24,Personal car,166.06
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,429,19,Other transportation expenses,44.03
+51,Derrick Schroeder,16,Finance,84,2023-10-03,414,2,Business meals,91.27
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,171,19,Other transportation expenses,75.70
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,49,5,Transport costs,96.70
+92,Kerry Mohr,21,Product Management,9,2023-01-25,42,2,Business meals,34.55
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,65,16,Parking Fees,83.92
+72,Glenda Goodwin,12,Strategic Initiatives & Programs,95,2023-11-16,472,13,Travel,180.49
+57,Clyde Hayes,9,Production,50,2023-06-02,242,5,Transport costs,77.40
+51,Derrick Schroeder,16,Finance,91,2023-11-01,452,16,Parking Fees,43.84
+68,Ruben Mertz,16,Finance,88,2023-10-21,442,23,Meals during travel,135.98
+45,Mitchell Friesen,15,Customer Service,4,2023-01-13,19,21,Tolls,90.67
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,498,15,Tips paid for services,42.50
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,62,13,Travel,128.37
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,322,19,Other transportation expenses,72.95
+10,Martha Legros,12,Strategic Initiatives & Programs,41,2023-05-15,211,24,Personal car,146.09
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,431,24,Personal car,201.84
+92,Kerry Mohr,21,Product Management,25,2023-03-19,138,17,Laundry,63.89
+68,Ruben Mertz,16,Finance,27,2023-03-23,149,4,Baggage fees,53.77
+22,Willard Walter,24,Sales,51,2023-06-02,253,23,Meals during travel,97.91
+3,Seth Dicki,7,Legal,78,2023-09-17,385,4,Baggage fees,20.74
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,174,21,Tolls,60.28
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,70,25,Other travel expenses,192.56
+91,Gayle Hammes,9,Production,56,2023-06-20,272,19,Other transportation expenses,42.12
+8,Katie Olson,23,Quality Assurance,10,2023-01-25,51,11,Other accomodation expenses,146.90
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,8,7,Mileage,142.70
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,310,9,Expenses,147.62
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,457,13,Travel,104.53
+77,Ronnie Boehm-Langworth,23,Quality Assurance,19,2023-03-01,104,7,Mileage,134.44
+78,Randal Kessler,3,Creative Services,77,2023-09-12,383,15,Tips paid for services,29.69
+68,Ruben Mertz,16,Finance,15,2023-02-13,83,10,Lodging,202.92
+12,Roberta Hermiston,6,Information Technology,68,2023-08-07,334,24,Personal car,196.66
+36,Joann Dach,21,Product Management,75,2023-09-04,370,16,Parking Fees,81.50
+74,Amelia Wilderman,15,Customer Service,82,2023-09-21,405,14,Food,46.92
+37,Laurie Bode,16,Finance,63,2023-07-24,302,8,Cleaning and laundry,63.02
+81,Angelica Torphy,15,Customer Service,29,2023-03-25,157,13,Travel,187.96
+26,Lillian Ullrich,5,General Management,24,2023-03-14,134,15,Tips paid for services,43.73
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,277,16,Parking Fees,58.69
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,410,16,Parking Fees,21.87
+74,Amelia Wilderman,15,Customer Service,82,2023-09-21,407,20,Auto rentals,153.38
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,117,4,Baggage fees,72.50
+92,Kerry Mohr,21,Product Management,11,2023-01-27,56,7,Mileage,152.50
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,421,16,Parking Fees,40.80
+89,Sarah Reichel,19,Investor Relations,36,2023-04-24,185,3,Airfare,450.97
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,374,4,Baggage fees,97.93
+22,Willard Walter,24,Sales,30,2023-03-31,164,23,Meals during travel,182.03
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,13,7,Mileage,199.95
+31,Guillermo Schuster DVM,25,IT,93,2023-11-07,467,22,Air- rail and bus fares,515.46
+42,Dr. Carolyn Bartell MD,21,Product Management,81,2023-09-19,401,18,Transportation,176.15
+91,Gayle Hammes,9,Production,26,2023-03-23,143,9,Expenses,90.14
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,66,19,Other transportation expenses,50.97
+92,Kerry Mohr,21,Product Management,11,2023-01-27,57,17,Laundry,87.54
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,313,22,Air- rail and bus fares,166.96
+12,Roberta Hermiston,6,Information Technology,68,2023-08-07,331,2,Business meals,58.04
+3,Seth Dicki,7,Legal,78,2023-09-17,386,16,Parking Fees,59.37
+15,Conrad Treutel,6,Information Technology,72,2023-08-22,354,16,Parking Fees,23.00
+33,Julio Sanford,12,Strategic Initiatives & Programs,80,2023-09-17,396,20,Auto rentals,126.19
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,499,19,Other transportation expenses,50.30
+37,Laurie Bode,16,Finance,63,2023-07-24,303,13,Travel,220.97
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,284,13,Travel,106.87
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,54,2023-06-17,264,17,Laundry,92.55
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,71,25,Other travel expenses,29.20
+91,Gayle Hammes,9,Production,26,2023-03-23,148,25,Other travel expenses,127.49
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,424,23,Meals during travel,66.97
+76,Mr. Jody Rolfson,2,Business Development,74,2023-08-30,363,17,Laundry,74.11
+51,Derrick Schroeder,16,Finance,84,2023-10-03,418,17,Laundry,86.45
+91,Gayle Hammes,9,Production,53,2023-06-12,260,13,Travel,193.32
+63,Gilbert Lang,10,Purchasing / Sourcing,79,2023-09-17,391,24,Personal car,299.37
+91,Gayle Hammes,9,Production,55,2023-06-20,268,19,Other transportation expenses,38.36
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,16,2023-02-19,93,17,Laundry,75.02
+22,Willard Walter,24,Sales,30,2023-03-31,161,4,Baggage fees,73.00
+21,Cameron Ritchie,8,Operations,70,2023-08-13,347,23,Meals during travel,154.40
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,172,19,Other transportation expenses,35.19
+74,Amelia Wilderman,15,Customer Service,82,2023-09-21,406,19,Other transportation expenses,84.85
+36,Joann Dach,21,Product Management,8,2023-01-24,39,18,Transportation,62.93
+45,Mitchell Friesen,15,Customer Service,4,2023-01-13,20,21,Tolls,58.00
+22,Willard Walter,24,Sales,30,2023-03-31,163,11,Other accomodation expenses,201.91
+17,Mr. Elijah Pollich,4,Engineering,96,2023-11-20,477,22,Air- rail and bus fares,167.89
+57,Clyde Hayes,9,Production,50,2023-06-02,244,12,Meals,42.48
+15,Conrad Treutel,6,Information Technology,72,2023-08-22,355,18,Transportation,71.21
+95,Marcus Will-Powlowski Jr.,8,Operations,61,2023-07-15,296,23,Meals during travel,44.67
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,285,16,Parking Fees,98.35
+91,Gayle Hammes,9,Production,53,2023-06-12,258,10,Lodging,266.70
+42,Dr. Carolyn Bartell MD,21,Product Management,81,2023-09-19,402,21,Tolls,66.53
+68,Ruben Mertz,16,Finance,21,2023-03-02,111,18,Transportation,70.38
+91,Gayle Hammes,9,Production,26,2023-03-23,146,17,Laundry,117.75
+68,Ruben Mertz,16,Finance,21,2023-03-02,114,25,Other travel expenses,189.47
+55,Ernest Senger III,12,Strategic Initiatives & Programs,7,2023-01-24,32,6,Business calls,82.35
+80,Ms. Fannie McGlynn,23,Quality Assurance,38,2023-05-01,193,5,Transport costs,55.29
+37,Laurie Bode,16,Finance,63,2023-07-24,307,19,Other transportation expenses,37.38
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,121,11,Other accomodation expenses,87.26
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,500,19,Other transportation expenses,44.30
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,483,15,Tips paid for services,77.39
+18,Lyle Gutkowski,12,Strategic Initiatives & Programs,54,2023-06-17,263,9,Expenses,85.22
+73,Tina Hirthe,15,Customer Service,18,2023-02-23,98,8,Cleaning and laundry,102.38
+77,Ronnie Boehm-Langworth,23,Quality Assurance,19,2023-03-01,106,25,Other travel expenses,94.50
+24,Trevor Nicolas,9,Production,87,2023-10-16,435,12,Meals,49.04
+86,Ida Herzog,9,Production,39,2023-05-06,202,20,Auto rentals,90.39
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,282,12,Meals,88.14
+86,Ida Herzog,9,Production,33,2023-04-13,176,6,Business calls,22.37
+5,Marion Grant III,14,Corporate Communications,67,2023-08-03,328,17,Laundry,62.30
+38,Eric Johns,24,Sales,28,2023-03-23,155,22,Air- rail and bus fares,446.06
+10,Martha Legros,12,Strategic Initiatives & Programs,41,2023-05-15,212,24,Personal car,171.45
+92,Kerry Mohr,21,Product Management,25,2023-03-19,139,20,Auto rentals,176.56
+92,Kerry Mohr,21,Product Management,23,2023-03-08,127,3,Airfare,432.74
+68,Ruben Mertz,16,Finance,27,2023-03-23,151,16,Parking Fees,38.85
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,15,19,Other transportation expenses,35.52
+52,Hattie Kassulke,24,Sales,1,2023-01-06,3,13,Travel,199.04
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,375,5,Transport costs,68.65
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,275,7,Mileage,276.52
+30,Megan Quitzon,16,Finance,69,2023-08-11,335,1,Accomodations,362.78
+73,Tina Hirthe,15,Customer Service,100,2023-11-28,496,11,Other accomodation expenses,117.19
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,225,24,Personal car,177.73
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,423,18,Transportation,85.70
+55,Ernest Senger III,12,Strategic Initiatives & Programs,7,2023-01-24,34,25,Other travel expenses,81.68
+81,Angelica Torphy,15,Customer Service,20,2023-03-02,109,20,Auto rentals,170.03
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,64,14,Food,51.15
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,222,14,Food,65.61
+36,Joann Dach,21,Product Management,75,2023-09-04,372,21,Tolls,66.96
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,73,3,Airfare,608.46
+59,Samantha Kuhic III,1,Asset Management,57,2023-06-26,279,22,Air- rail and bus fares,87.40
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,26,20,Auto rentals,65.34
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,409,15,Tips paid for services,89.68
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,321,17,Laundry,74.44
+63,Gilbert Lang,10,Purchasing / Sourcing,79,2023-09-17,389,1,Accomodations,210.78
+30,Megan Quitzon,16,Finance,69,2023-08-11,340,12,Meals,105.50
+55,Ernest Senger III,12,Strategic Initiatives & Programs,7,2023-01-24,31,4,Baggage fees,45.48
+92,Kerry Mohr,21,Product Management,23,2023-03-08,126,1,Accomodations,423.66
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,221,6,Business calls,42.71
+32,Willard Cremin-Kunde,7,Legal,85,2023-10-09,425,25,Other travel expenses,146.48
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,60,7,Mileage,245.68
+5,Marion Grant III,14,Corporate Communications,67,2023-08-03,327,16,Parking Fees,44.19
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,480,10,Lodging,186.09
+52,Hattie Kassulke,24,Sales,1,2023-01-06,2,7,Mileage,205.57
+32,Willard Cremin-Kunde,7,Legal,73,2023-08-28,360,24,Personal car,266.20
+92,Kerry Mohr,21,Product Management,23,2023-03-08,131,24,Personal car,279.15
+17,Mr. Elijah Pollich,4,Engineering,32,2023-04-10,173,19,Other transportation expenses,46.13
+21,Cameron Ritchie,8,Operations,70,2023-08-13,343,5,Transport costs,32.40
+95,Marcus Will-Powlowski Jr.,8,Operations,61,2023-07-15,297,25,Other travel expenses,52.80
+91,Gayle Hammes,9,Production,26,2023-03-23,144,13,Travel,158.44
+3,Seth Dicki,7,Legal,78,2023-09-17,388,23,Meals during travel,149.51
+74,Amelia Wilderman,15,Customer Service,82,2023-09-21,403,11,Other accomodation expenses,95.32
+29,Darla Donnelly,12,Strategic Initiatives & Programs,83,2023-09-27,408,5,Transport costs,84.46
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,234,22,Air- rail and bus fares,258.92
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,24,12,Meals,146.71
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,481,10,Lodging,201.01
+37,Laurie Bode,16,Finance,63,2023-07-24,306,18,Transportation,127.77
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,75,8,Cleaning and laundry,98.99
+91,Gayle Hammes,9,Production,26,2023-03-23,141,2,Business meals,23.43
+52,Hattie Kassulke,24,Sales,1,2023-01-06,1,2,Business meals,50.99
+57,Clyde Hayes,9,Production,50,2023-06-02,245,16,Parking Fees,89.74
+36,Joann Dach,21,Product Management,8,2023-01-24,41,21,Tolls,64.31
+76,Mr. Jody Rolfson,2,Business Development,74,2023-08-30,366,23,Meals during travel,151.83
+36,Joann Dach,21,Product Management,8,2023-01-24,40,19,Other transportation expenses,74.86
+68,Ruben Mertz,16,Finance,88,2023-10-21,440,16,Parking Fees,22.56
+33,Julio Sanford,12,Strategic Initiatives & Programs,86,2023-10-11,427,9,Expenses,56.54
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,120,9,Expenses,187.94
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,226,24,Personal car,156.81
+38,Eric Johns,24,Sales,28,2023-03-23,154,21,Tolls,59.82
+10,Martha Legros,12,Strategic Initiatives & Programs,41,2023-05-15,210,23,Meals during travel,145.05
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,16,19,Other transportation expenses,49.81
+3,Seth Dicki,7,Legal,78,2023-09-17,387,21,Tolls,31.49
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,458,14,Food,56.20
+65,Josephine Medhurst,20,Marketing,44,2023-05-17,223,14,Food,68.79
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,312,15,Tips paid for services,23.11
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,74,3,Airfare,325.92
+30,Megan Quitzon,16,Finance,69,2023-08-11,336,3,Airfare,545.84
+68,Ruben Mertz,16,Finance,27,2023-03-23,150,14,Food,80.15
+60,Ross Abernathy,3,Creative Services,42,2023-05-16,215,15,Tips paid for services,64.18
+92,Kerry Mohr,21,Product Management,23,2023-03-08,132,24,Personal car,280.86
+86,Ida Herzog,9,Production,33,2023-04-13,177,14,Food,73.90
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,2,2023-01-06,9,8,Cleaning and laundry,74.16
+91,Gayle Hammes,9,Production,53,2023-06-12,257,9,Expenses,103.42
+47,Laurence Armstrong,3,Creative Services,22,2023-03-03,119,8,Cleaning and laundry,42.53
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,484,17,Laundry,117.47
+95,Marcus Will-Powlowski Jr.,8,Operations,61,2023-07-15,294,15,Tips paid for services,47.45
+19,Joseph Douglas,12,Strategic Initiatives & Programs,31,2023-04-05,165,6,Business calls,71.92
+20,Darrell Hintz,20,Marketing,59,2023-07-05,288,7,Mileage,298.07
+30,Megan Quitzon,16,Finance,69,2023-08-11,338,7,Mileage,296.56
+67,Ms. Yolanda Larkin,10,Purchasing / Sourcing,43,2023-05-16,217,8,Cleaning and laundry,91.75
+24,Trevor Nicolas,9,Production,87,2023-10-16,433,7,Mileage,292.13
+81,Angelica Torphy,15,Customer Service,29,2023-03-25,156,1,Accomodations,198.60
+96,Dwight Rowe DDS,9,Production,58,2023-07-01,283,12,Meals,144.28
+33,Julio Sanford,12,Strategic Initiatives & Programs,80,2023-09-17,397,20,Auto rentals,109.29
+53,Derrick Lubowitz,13,Board of Directors,64,2023-07-24,311,9,Expenses,159.84
+68,Ruben Mertz,16,Finance,15,2023-02-13,82,8,Cleaning and laundry,59.09
+36,Joann Dach,21,Product Management,8,2023-01-24,38,16,Parking Fees,70.28
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,22,2,Business meals,72.93
+32,Willard Cremin-Kunde,7,Legal,73,2023-08-28,361,25,Other travel expenses,26.28
+37,Laurie Bode,16,Finance,63,2023-07-24,304,14,Food,33.39
+30,Megan Quitzon,16,Finance,69,2023-08-11,339,9,Expenses,178.26
+57,Clyde Hayes,9,Production,50,2023-06-02,243,7,Mileage,296.00
+38,Eric Johns,24,Sales,28,2023-03-23,152,16,Parking Fees,73.45
+75,Charlie Nader,23,Quality Assurance,47,2023-05-22,237,12,Meals,145.14
+91,Gayle Hammes,9,Production,56,2023-06-20,271,13,Travel,113.23
+84,Mrs. Joann Satterfield,4,Engineering,90,2023-10-29,446,7,Mileage,211.94
+51,Derrick Schroeder,16,Finance,84,2023-10-03,415,4,Baggage fees,70.41
+8,Katie Olson,23,Quality Assurance,40,2023-05-10,206,19,Other transportation expenses,39.23
+52,Hattie Kassulke,24,Sales,1,2023-01-06,5,21,Tolls,68.97
+80,Ms. Fannie McGlynn,23,Quality Assurance,3,2023-01-07,14,16,Parking Fees,66.14
+28,Jeanette Smith DDS,21,Product Management,65,2023-07-29,317,2,Business meals,56.64
+15,Conrad Treutel,6,Information Technology,92,2023-11-05,456,10,Lodging,305.29
+15,Conrad Treutel,6,Information Technology,76,2023-09-06,380,18,Transportation,175.84
+59,Samantha Kuhic III,1,Asset Management,5,2023-01-16,23,3,Airfare,597.94
+6,Dr. Warren Murphy,1,Asset Management,12,2023-02-01,58,2,Business meals,77.36
+12,Roberta Hermiston,6,Information Technology,94,2023-11-13,469,5,Transport costs,95.42
+47,Laurence Armstrong,3,Creative Services,48,2023-05-24,238,4,Baggage fees,26.99
+34,Misty Wisoky,1,Asset Management,46,2023-05-21,231,13,Travel,203.60
+11,Ms. Pam Fay,19,Investor Relations,13,2023-02-04,76,11,Other accomodation expenses,213.87
+100,Leland Wisoky,19,Investor Relations,60,2023-07-09,292,22,Air- rail and bus fares,114.92
+51,Derrick Schroeder,16,Finance,84,2023-10-03,416,9,Expenses,176.11
+33,Julio Sanford,12,Strategic Initiatives & Programs,80,2023-09-17,398,25,Other travel expenses,194.60
+55,Ernest Senger III,12,Strategic Initiatives & Programs,98,2023-11-26,482,10,Lodging,289.26
+17,Mr. Elijah Pollich,4,Engineering,66,2023-08-01,324,18,Transportation,86.00

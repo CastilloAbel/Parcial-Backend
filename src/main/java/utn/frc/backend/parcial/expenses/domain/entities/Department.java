@@ -21,20 +21,5 @@ public class Department {
         this.id = id;
         this.name = name;
     }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
+// aca van los getter y setter, no me anda el alt insert
 }

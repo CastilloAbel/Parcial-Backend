@@ -4,6 +4,7 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
 
+
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.text.DateFormat;
@@ -21,6 +22,7 @@ public class Expenses {
     private static final int DET_ID_INDEX = 6, DET_AMOUNT_INDEX = 9;
     private static final String PERSISTENCE_UNIT_NAME = "h2ExpPU";
     private static final String DATE_FORMAT = "yyyy-MM-dd";
+    private static double total = 0.0;
 
 
     record CsvRow(
@@ -71,18 +73,29 @@ public class Expenses {
 
     public static void main(String[] args) throws Exception {
 
-        String fPath = System.getProperty("user.dir") + "/src/main/java/utn/frc/backend/parcial/expenses/sample_expenses.csv";
+        String fPath = System.getProperty("user.dir") + "/src/main/java/utn/frc/backend/parcial/expenses/Expenses.csv";
         loadCollecions(fPath);
         EntityManagerFactory emf = Persistence.createEntityManagerFactory(PERSISTENCE_UNIT_NAME);
         EntityManager em = emf.createEntityManager();
 
+        //pruebas
 //        departmentMap.values().forEach(el -> System.out.println(el));
 
-        //populate(em);
+//        em.getTransaction().begin();
+//        populate(em);
+//        em.getTransaction().commit();
 
-        employeeExpenses(null, null);
-        departmentExpenses(null, null);
-        expenseSummary(null, null, "1900-01-01", "2100-12-31");
+        //detalle de viaticos para un empleado determinado
+        // no me acuerdo lo del scanner sc = new Scan()
+        // en el 3 va el valor ingresado por teclado
+
+        employeeExpenses(3);
+
+        //detalle de viaticos por departamento
+        departmentExpenses(6);
+
+
+//        expenseSummary(null, null, "1900-01-01", "2100-12-31");
 
         em.close();
         emf.close();
@@ -90,7 +103,6 @@ public class Expenses {
 
     private static void populate(EntityManager em) {
 
-        em.getTransaction().begin();
         departmentMap.values().forEach(el ->
                 em.createNativeQuery("insert into department(did, dname) values(?, ?)")
                 .setParameter(1, el.id)
@@ -125,7 +137,6 @@ public class Expenses {
                     .executeUpdate());
 
 
-    em.getTransaction().commit();
     }
 
 
@@ -189,46 +200,75 @@ public class Expenses {
         }
     }
 
-    private static void employeeExpenses(EntityManager em, Integer empId) {
-        System.out.printf("Employee: %3d, %s\n", 999, "Employee's Name");
-        System.out.printf("\t%d, %s\n", 999, "yyyy-mm-dd");
-        System.out.printf("\t\t%3d, %32s: %8.2f\n",
-                999,
-                "Expense Name",
-                999.99d
-        );
-        System.out.printf("\t\t%3d, %32s: %8.2f\n",
-                999,
-                "Expense Name",
-                999.99d
-        );
+    private static void employeeExpenses(Integer empId) {
 
+        Employee emp = employeeMap.get(empId);
+        System.out.printf("Employee: %3d, %s\n", emp.id, emp.name);
+        List<ExpenSub> exp = new ArrayList<>();
+
+        expenSubMap.values().forEach(el -> {
+            if (el.employee.id == emp.id){
+                exp.add(el);
+            }
+        });
+
+        expenSubDetailMap.values().forEach(el -> {
+            double subtotal = 0;
+            for (ExpenSub e : exp) {
+
+                if (el.expenSub.id == e.id){
+                    System.out.printf("\t%d, %s\n", e.id, e.subDate);
+                    System.out.printf("\t\t%3d, %32s: %8.2f\n",
+                            el.id,
+                            el.expen.name,
+                            el.amount
+                    );
+                    subtotal += el.amount;
+                }
+            }
+            if (subtotal > 0) {
+                System.out.println("\t\t===============================================");
+                System.out.printf("\t\tTOTAL: %40.2f\n\n", subtotal);
+            }
+            total += subtotal;
+        });
         System.out.println("\t\t===============================================");
-        System.out.printf("\t\tTOTAL: %40.2f\n\n", 999.99d);
-        System.out.printf("\t%d, %s\n", 999, "yyyy-mm-dd");
-        System.out.printf("\t\t%3d, %32s: %8.2f\n",
-                999,
-                "Expense Name",
-                999.99d
-        );
-        System.out.printf("\t\t%3d, %32s: %8.2f\n",
-                999,
-                "Expense Name",
-                999.99d
-        );
-        System.out.println("\t\t===============================================");
-        System.out.printf("\t\tTOTAL: %40.2f\n\n", 999.99d);
-        System.out.printf("TOTAL: %48.2f\n", 9999.99d);
+        System.out.printf("TOTAL: %48.2f\n", total);
 
     }
 
-    private static void departmentExpenses(EntityManager em, Integer dptId) {
-        System.out.printf("Department: %3d, %s\n", 999, "Department Name");
-        System.out.printf("\t\t%3d, %32s: %8.2f\n", 999, "Employee's Name", 999.99d);
-        System.out.printf("\t\t%3d, %32s: %8.2f\n", 999, "Employee's Name", 999.99d);
-        System.out.printf("\t\t%3d, %32s: %8.2f\n", 999, "Employee's Name", 999.99d);
+    private static void departmentExpenses(Integer dptId) {
+        Department dep = departmentMap.get(dptId);
+
+        System.out.printf("Department: %3d, %s\n", dep.id, dep.name);
+        List<Employee> emp = new ArrayList<>();
+
+        employeeMap.values().forEach(el -> {
+            if (el.department.id == dep.id){
+                emp.add(el);
+            }
+        });
+
+        double total = 0.0;
+        for(ExpenSub expenSub : expenSubMap.values()){
+            for (Employee e : emp) {
+                if (expenSub.employee.id == e.id) {
+                    double subtotal = 0.0;
+
+                    for(ExpenSubDetail detail: expenSubDetailMap.values()){
+                        if (detail.expenSub.id == expenSub.id){
+                            subtotal += detail.amount;
+                            }
+
+                    }
+                    System.out.println("\t\t===============================================");
+                    System.out.printf("\t\t%3d, %32s: %8.2f\n", e.id, e.name, subtotal);
+                    total += subtotal;
+                }
+            }
+        }
         System.out.println("\t\t===============================================");
-        System.out.printf("TOTAL: %48.2f\n", 9999.99d);
+        System.out.printf("TOTAL: %48.2f\n", total);
 
     }
 
